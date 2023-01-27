@@ -7,7 +7,7 @@
 ## Word Clouds
 ![Seattle Chinatown](/Img/SEA-Chinatown.png)
 ![San Francisco Chinatown](/Img/SF-Chinatown.png)
-![NYC Chinatown](/Img/NYC-Chinatown.png)  
+![NYC Chinatown](NYC-Chinatown.png)  
 
 # Explanation of Lab 2
 The topic I decided to explore for this project was "Gentrification" and I explored 3.5 miles in diameters in 3 different Chinatowns in Seattle, San Francisco, and New York City over 10 years (2013-2023). 
